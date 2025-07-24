@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 I'm Sai Harsha, a data analyst who turns chaotic datasets into clear insights and compelling dashboards.  
-With a curious mind and a love for clean visuals, I specialize in:
+With a curious mind and a love for clean visuals, I am specializing in:
 
 - 📈 Data wrangling with Python & SQL  
 - 🧪 Statistical analysis & A/B testing  
